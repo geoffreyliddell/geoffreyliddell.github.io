@@ -2,4 +2,4 @@
 
 This is Geoffrey Liddell's GitHub Pages website. [Here is a link to the homepage!](./)
 
-The contact me page is [here](./contact)
+The contact me page is [here](./contact.md)
