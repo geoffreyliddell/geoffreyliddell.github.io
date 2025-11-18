@@ -1,5 +1,6 @@
 layout: page
 title: Contact
+permalink: /contact
 
 Personal email: geoffrey_liddell@outlook.com
 Work email: g.c.liddell@soton.ac.uk
