@@ -1,4 +1,4 @@
-![Header Photo](/assets/img/hard_rush.jpg)
+![Header Photo](./assets/img/hard_rush.jpg)
 
 # Geoffrey Liddell
 
